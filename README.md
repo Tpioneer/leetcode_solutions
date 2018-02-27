@@ -1,5 +1,5 @@
-# Keep thinking, keep alive
-Until 2018-02-27 18:12:42, I have solved **0** / **706** problems while **132** are still locked.
+# Day day up
+Until 2018-02-27 18:23:06, I have solved **0** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
 
 Completion statistic: 
 1. Python: 0
