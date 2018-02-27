@@ -1,11 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-02-27 18:02:47, I have solved **0** / **706** problems while **132** are still locked.
+Until 2018-02-27 18:07:37, I have solved **0** / **706** problems while **132** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
-2. Python: 0
-3. C++: 0
-4. Java: 0
+1. Python: 0
+2. C++: 0
+3. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
 
