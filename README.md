@@ -1,8 +1,8 @@
 # Day day up
-Until 2018-03-01 20:51:41, I have solved **8** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
+Until 2018-03-02 22:11:47, I have solved **10** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
 
 Completion statistic: 
-1. Python: 8
+1. Python: 10
 2. C++: 0
 3. Java: 0
 
@@ -338,7 +338,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/344.%20Reverse%20String/solution.py)|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|
@@ -406,7 +406,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|To Do|To Do|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|To Do|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/412.%20Fizz%20Buzz/solution.py)|To Do|To Do|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|To Do|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|To Do|To Do|To Do|
