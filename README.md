@@ -1,8 +1,8 @@
 # Day day up
-Until 2018-03-02 22:11:47, I have solved **10** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
+Until 2018-03-03 21:18:47, I have solved **12** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
 
 Completion statistic: 
-1. Python: 10
+1. Python: 12
 2. C++: 0
 3. Java: 0
 
@@ -147,7 +147,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/) |Medium|To Do|To Do|To Do|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/) |Medium|To Do|To Do|To Do|
 |135|[Candy](https://leetcode.com/problems/candy/description/) |Hard|To Do|To Do|To Do|
-|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/136.%20Single%20Number/solution.py)|To Do|To Do|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|To Do|To Do|To Do|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|
@@ -536,7 +536,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|To Do|To Do|
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|To Do|To Do|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) |Medium|To Do|To Do|To Do|
-|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|To Do|To Do|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/solution.py)|To Do|To Do|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|To Do|To Do|To Do|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|To Do|To Do|To Do|
