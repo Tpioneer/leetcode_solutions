@@ -1,8 +1,8 @@
 # Day day up
-Until 2018-03-03 21:18:47, I have solved **12** / **706** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
+Until 2018-03-04 21:37:18, I have solved **14** / **710** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
 
 Completion statistic: 
-1. Python: 12
+1. Python: 14
 2. C++: 0
 3. Java: 0
 
@@ -115,7 +115,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py)|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|
@@ -277,7 +277,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|To Do|To Do|To Do|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|To Do|To Do|To Do|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) |Hard|To Do|To Do|To Do|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|To Do|To Do|To Do|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/solution.py)|To Do|To Do|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|To Do|To Do|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|To Do|To Do|To Do|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|To Do|To Do|To Do|
@@ -718,3 +718,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |Medium|To Do|To Do|To Do|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
