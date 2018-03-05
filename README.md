@@ -1,8 +1,8 @@
 # Day day up
-Until 2018-03-04 21:37:18, I have solved **14** / **710** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
+Until 2018-03-05 19:36:23, I have solved **15** / **710** problems while **132** are still locked.Readme script from [here](https://github.com/hey-bruce/algorithms_and_oj)
 
 Completion statistic: 
-1. Python: 14
+1. Python: 15
 2. C++: 0
 3. Java: 0
 
@@ -381,7 +381,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|To Do|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|To Do|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[Python](https://github.com/Tpioneer/leetcode_solutions/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20String/solution.py)|To Do|To Do|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|
