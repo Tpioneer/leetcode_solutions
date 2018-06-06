@@ -4,8 +4,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums = sorted(nums)
-        x = 0
-        for i in range(0,len(nums),2):
-            x += nums[i]
-        return x
+        return sum(sorted(nums)[::2])
